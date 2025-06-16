@@ -1,9 +1,33 @@
 # RAG (Retrieval Augmented Generation)-Implementation
 
 RAG (Retrieval-Augmented Generation) is a method that enhances LLMs (like GPT) by allowing them to access external information during generation. 
+
 This project implements a simple RAG pipeline using Google Generative AI, Langchain and chroma vector database.It retrieves relevant documents using embeddings, then passes them to a language model to generate grounded and context-aware answers.
 
+# How RAG work
+
+**Ingest**
+
+Loads the files, link or given data.
+
+**Embed**
+
+Convert the document into vector representations.
+
+**Store**
+
+Save vectors in a vector database (in this case Chroma)
+
+**Retrieve**
+
+When the question is asked, RAG converts it to vector and retrieve the most relevant answer to the question frm the given document or link.
+
+**Generate**
+
+Generate acccurate and relevant answer.
+
 # Features
+
 **-** Document retrieval with ChromaDB
 
 **-** Embedding powered by Google Generative AI
