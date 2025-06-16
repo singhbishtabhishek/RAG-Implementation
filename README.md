@@ -1,5 +1,6 @@
 # RAG (Retrieval Augmented Generation)-Implementation
 
+RAG (Retrieval-Augmented Generation) is a method that enhances LLMs (like GPT) by allowing them to access external information during generation. 
 This project implements a simple RAG pipeline using Google Generative AI, Langchain and chroma vector database.It retrieves relevant documents using embeddings, then passes them to a language model to generate grounded and context-aware answers.
 
 # Features
