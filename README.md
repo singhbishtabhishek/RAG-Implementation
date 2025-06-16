@@ -43,14 +43,5 @@ You can use your API keys in the code (replacing the API keys with GoogleAPIkey 
 
 **You can change the reading document link with another link of your choice**
 
-# Output 
-
-**Question asked**
-
-![image](https://github.com/user-attachments/assets/f486d269-fd43-48bc-905f-77de1ea9ff6a)
-
-**Answer generated**
-
-![image](https://github.com/user-attachments/assets/0701d4af-d368-44d2-9035-d1f165534812)
 
 
