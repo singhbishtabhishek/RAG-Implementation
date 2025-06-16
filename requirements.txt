@@ -5,3 +5,4 @@ openai
 chromadb
 langchain_community
 langchain_text_splitters
+langchain_community.document_loaders
