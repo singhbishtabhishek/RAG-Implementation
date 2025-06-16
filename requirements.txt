@@ -1,0 +1,7 @@
+langchain-google-genai 
+google-ai-generativelanguage 
+google-generativeai
+openai
+chromadb
+langchain_community
+langchain_text_splitters
