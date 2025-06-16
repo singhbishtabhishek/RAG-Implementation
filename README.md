@@ -1,1 +1,1 @@
-# RAG-Implementation
+# RAG (Retrival Augmented Generation)-Implementation
