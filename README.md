@@ -54,7 +54,7 @@ https://aistudio.google.com/app/apikey
 
 To enable LangSmith (LangChain’s tracing and observability platform), you’ll need to get an API key.
 
-https://smith.langchain.com/
+https://smith.langchain.com
 
 You can use your API keys in the code (replacing the API keys with GoogleAPIkey and LangchainAPIkey). 
 
